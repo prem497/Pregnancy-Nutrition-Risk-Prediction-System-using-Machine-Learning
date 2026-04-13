@@ -75,7 +75,7 @@ User-friendly web interface (Django + Bootstrap)
 Real-time prediction using FastAPI
 Visualization of prediction results
 
-demo link of project:
+demo link of project:https://drive.google.com/file/d/1TBO1mqXl0gpVTR4Rfwf93RqMRBwTNH8X/view?usp=sharing
 
 Author name:Premchandar
 
