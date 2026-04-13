@@ -9,23 +9,23 @@ The system helps in early identification of nutritional risks to support timely 
 
 System workflow
 1. Data Collection
-        ↓
+        
 2. Data Preprocessing
-        ↓
+        
 3. Model Training
-        ↓
+        
 4. Model Evaluation
-        ↓
+        
 5. Model Selection (Best Algorithm)
-        ↓
+        
 6. Model Deployment (FastAPI)
-        ↓
+        
 7. User Interface (Django + Bootstrap)
-        ↓
+        
 8. API Communication (Django → FastAPI)
-        ↓
+        
 9. Prediction Generation
-        ↓
+        
 10. Result Display (Risk Level + Visualization)
 
 Benefits
